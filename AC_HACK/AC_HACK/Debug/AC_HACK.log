@@ -1,0 +1,23 @@
+﻿  AC_HACK.cpp
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(121,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(122,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(141,86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(149,2): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(162,15): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(163,15): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(173,58): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(173,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(173,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(173,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(174,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(174,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(175,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(175,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(179,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(179,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(214,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(216,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(217,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(231,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86156\source\repos\AC_HACK\AC_HACK\AC_HACK.cpp(232,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  AC_HACK.vcxproj -> C:\Users\86156\source\repos\AC_HACK\Debug\AC_HACK.exe
